@@ -1,4 +1,4 @@
 <?php
-　$YourName=$_POST[name];
+　$YourName=$_POST[YourName];
 　echo '接收到的內容為: '.$YourName;
 ?>
